@@ -1,0 +1,10 @@
+{
+	"name": "telegram-scrapper",
+	"version": "0.0.1",
+	"description": "A very basic skeleton for a Telegram Scrapper",
+	"main": "telegram-scrapper.js",
+	"dependencies": {
+		"axios": "^0.21.0",
+		"cheerio": "^1.0.0-rc.5"
+	}
+}
