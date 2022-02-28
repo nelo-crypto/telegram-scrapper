@@ -32,7 +32,7 @@ async function run() {
 				console.log('Found meta ' + metaId);
 
 				if (lastText !== telegrams[telegramIndex].previousText) {
-				    const content = lastText + ' @ ' + telegrams[telegramIndex].name + ' - ' + followers + ' - ' + telegrams[telegramIndex].url
+					const content = lastText + ' @ ' + telegrams[telegramIndex].name + ' - ' + followers + ' - ' + telegrams[telegramIndex].url
 
 					console.log('Content found: ' +content);
 				}
