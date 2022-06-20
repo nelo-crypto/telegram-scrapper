@@ -1,6 +1,6 @@
 # Telegram Scrapper
 
-A simple working example of a possible Telegram Scrapper using Axios and the Cheerio packages. To be used as a monitoring tool, integrated with a dashboard or with a message relay inside a bigger system.
+A simple working example of a possible Telegram Scrapper using TypeScript/JavaScript, Axios and the Cheerio packages. To be used as a monitoring tool, integrated with a dashboard or with a message relay inside a bigger system.
 
 ## Installation
 
