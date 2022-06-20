@@ -11,3 +11,7 @@ Does not include the npm lock file on purpose.
 ## How to run
 
 `node telegram-scapper.js`
+
+## Donations
+
+EVM Address: 0x26b9fD8EF7a6d2f0612D4953CE7A06Fe8d90dd66
